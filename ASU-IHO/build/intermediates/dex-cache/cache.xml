@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Barathi\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Barathi\Documents\GitHub\IHO-Android\IHO-ASU Android\app\build\intermediates\pre-dexed\release\support-v4-19.1.0-1883ab321e2f2466e34b9d0bb41e80051bc1563d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Barathi\Downloads\IHO-IOS-master\IHO-IOS-master\IHO-ASU Android\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\Barathi\Downloads\IHO-IOS-master\IHO-IOS-master\IHO-ASU Android\app\build\intermediates\pre-dexed\debug\additionnal-37ef0b0275283b97831b20dfddcdb8018d146df4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Barathi\Documents\GitHub\IHO-Android\IHO-ASU Android\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\Barathi\Documents\GitHub\IHO-Android\IHO-ASU Android\app\build\intermediates\pre-dexed\release\additionnal-cd8d2c1950b9575d776541b32ede3f877d776f50.jar" />
+    </item>
+    <item
+        jar="C:\Users\Barathi\Documents\GitHub\IHO-Android\IHO-ASU Android\app\libs\mail.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\Barathi\Documents\GitHub\IHO-Android\IHO-ASU Android\app\build\intermediates\pre-dexed\release\mail-6d5584db7a1f6c86a995dc1c6b32fb0b3299d153.jar" />
+    </item>
+    <item
+        jar="C:\Users\Barathi\Documents\GitHub\IHO-Android\IHO-ASU Android\app\libs\activation.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\Barathi\Documents\GitHub\IHO-Android\IHO-ASU Android\app\build\intermediates\pre-dexed\release\activation-a9e056910e9290d371300ee3f5df021a69a5458a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Barathi\Downloads\IHO-IOS-master\IHO-IOS-master\IHO-ASU Android\app\libs\activation.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\Barathi\Downloads\IHO-IOS-master\IHO-IOS-master\IHO-ASU Android\app\build\intermediates\pre-dexed\debug\activation-dd4600f38eda3f3682913db4b92cc8cd4fe860ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Barathi\Downloads\IHO-IOS-master\IHO-IOS-master\IHO-ASU Android\app\libs\mail.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\Barathi\Downloads\IHO-IOS-master\IHO-IOS-master\IHO-ASU Android\app\build\intermediates\pre-dexed\debug\mail-238947e6154be1379e0bbca5a700c0295bb7892b.jar" />
+    </item>
+
+</items>
